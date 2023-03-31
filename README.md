@@ -14,6 +14,7 @@ Skills
 
 ### Education
 Master of Science in Data Science, University of St. Thomas (Expected graduation: 2024)
+
 Bachelor of Science in Computer Information Technology, Metropolitan State University
 
 - 💞️ I’m looking to collaborate on with new open source projects
