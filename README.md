@@ -17,6 +17,8 @@ Master of Science in Data Science, University of St. Thomas (Expected graduation
 
 Bachelor of Science in Computer Information Technology, Metropolitan State University
 
+
+
 - 💞️ I’m looking to collaborate on with new open source projects
 - 📫 How to reach me ridwan0abdullahi@gmail.com
 
