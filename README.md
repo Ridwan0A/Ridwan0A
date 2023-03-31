@@ -2,7 +2,7 @@
 
 I'm a software engineer at United Health Group. My passion for data has led me to pursue a master's degree in data science at the University of St. Thomas.
 
-Skills
+ Skills
 - Python
 - Java
 - Scala
