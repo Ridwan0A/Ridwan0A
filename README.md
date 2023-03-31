@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Ridwan0A
-- 👀 I’m interested in HTML, CSS, Javascript, React, AWS, Java, and Data Structures and algorithms.
-- 🌱 I’m currently learning front end web development AND data structures and algorithms in Java.
-- 💞️ I’m looking to collaborate on with new open source projects
-- 📫 How to reach me @ridwan0abdullahi@gmail.com
+# Hello, I'm Ridwam 👋
 
-Hello, I'm Ridwam 👋
 I'm a software engineer at United Health Group. My passion for data has led me to pursue a master's degree in data science at the University of St. Thomas.
 
 Skills
@@ -16,15 +11,13 @@ Skills
 - Flask
 - HTML
 - CSS
-Education
+
+### Education
 Master of Science in Data Science, University of St. Thomas (Expected graduation: 2024)
 Bachelor of Science in Computer Information Technology, Metropolitan State University
 
 - 💞️ I’m looking to collaborate on with new open source projects
 - 📫 How to reach me @ridwan0abdullahi@gmail.com
-
-
-
 
 <!---
 Ridwan0A/Ridwan0A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
