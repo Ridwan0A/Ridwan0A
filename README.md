@@ -4,6 +4,7 @@ I'm a software engineer at United Health Group. My passion for data has led me t
 
  ### Skills
 - Python
+- SQL
 - Java
 - Scala
 - JavaScript
