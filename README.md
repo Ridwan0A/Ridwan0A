@@ -1,6 +1,6 @@
 # Hello, I'm Ridwam 👋
 
-I'm a software engineer at United Health Group. My passion for data has led me to pursue a master's degree in data science at the University of St. Thomas.
+I'm a software engineer at United Health Group.
 
  ### Skills
 - Python
@@ -14,7 +14,7 @@ I'm a software engineer at United Health Group. My passion for data has led me t
 - CSS
 
 ### Education
-Master of Science in Data Science, University of St. Thomas (Expected graduation: 2024)
+
 
 Bachelor of Science in Computer Information Technology, Metropolitan State University
 
