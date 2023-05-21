@@ -1,4 +1,4 @@
-# Hello, I'm Ridwam 👋
+# Hello, I'm Ridwan 👋
 
 I'm a software engineer at United Health Group.
 
@@ -6,7 +6,7 @@ I'm a software engineer at United Health Group.
 - Python
 - SQL
 - Java
-- Scala
+- TypeScript
 - JavaScript
 - Spring Boot
 - Flask
