@@ -16,15 +16,8 @@ I'm a software engineer at United Health Group.
 - SQL
 - Microsoft Azure
 - Git
-- /CD
 - APIs
-- Docker
 - Springboot
-- Postman
-- Grafana
-- ServiceNow
-- Maven
-- PowerShell
 
 ### Education
 
