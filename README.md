@@ -3,28 +3,28 @@
 I'm a software engineer at United Health Group.
 
 # Languages
-Java
-JavaScript
-Python
-TypeScript
-HTML/CSS
+- Java
+- JavaScript
+- Python
+- TypeScript
+- HTML/CSS
 # Technologies
-React.JS
-Next.JS
-GraphQL
-Tailwind
-SQL
-Microsoft Azure
-Git
-CI/CD
-APIs
-Docker
-Springboot
-Postman
-Grafana
-ServiceNow
-Maven
-PowerShell
+- React.JS
+- Next.JS
+- GraphQL
+- Tailwind
+- SQL
+- Microsoft Azure
+- Git
+- /CD
+- APIs
+- Docker
+- Springboot
+- Postman
+- Grafana
+- ServiceNow
+- Maven
+- PowerShell
 
 ### Education
 
