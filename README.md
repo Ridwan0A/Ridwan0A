@@ -2,16 +2,29 @@
 
 I'm a software engineer at United Health Group.
 
- ### Skills
-- Python
-- SQL
-- Java
-- TypeScript
-- JavaScript
-- Spring Boot
-- Flask
-- HTML
-- CSS
+# Languages
+Java
+JavaScript
+Python
+TypeScript
+HTML/CSS
+# Technologies
+React.JS
+Next.JS
+GraphQL
+Tailwind
+SQL
+Microsoft Azure
+Git
+CI/CD
+APIs
+Docker
+Springboot
+Postman
+Grafana
+ServiceNow
+Maven
+PowerShell
 
 ### Education
 
